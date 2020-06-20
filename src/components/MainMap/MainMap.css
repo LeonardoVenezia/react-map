@@ -1,0 +1,13 @@
+.map {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    height: 400px;
+}
+
+.markersList {
+    list-style: none;
+    padding: 0;
+}
